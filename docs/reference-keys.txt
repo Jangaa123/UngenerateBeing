@@ -1,7 +1,8 @@
 introduction
 formal-logic
-epistemology
 propositional-logic
 introduction-1
 syntax
+epistemology
 ontology
+ontology-1
