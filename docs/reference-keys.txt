@@ -6,3 +6,5 @@ syntax
 epistemology
 ontology
 ontology-1
+predicate-logic
+ethics
