@@ -2,7 +2,7 @@
 title: "Ungenerate Being"
 author: "Max"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+site: https://jangaa123.github.io/UngenerateBeing/
 ---
 
 # Introduction
