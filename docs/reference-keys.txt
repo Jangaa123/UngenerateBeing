@@ -3,8 +3,7 @@ formal-logic
 propositional-logic
 introduction-1
 syntax
+predicate-logic
 epistemology
 ontology
-ontology-1
-predicate-logic
 ethics
