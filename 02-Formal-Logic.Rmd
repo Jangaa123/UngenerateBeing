@@ -1,2 +1,63 @@
 # Formal Logic
+## Propositional Logic
+### Introduction
 
+> **__Propositions__**: statements, statements are propositions, these things are one in the same. Statements are claims which can either be true or false. 
+
+I am a dog; this is a proposition because it could be true or false. I could be a dog, or I could not be a dog. It is highly unlikely I am a dog, but there is still a possibility that it is true. However, there are statements which cannot be true or false. Take this sentence fragment: An orange plus three. Is this an example of a proposition? No, an orange plus three cannot be valued as true or false. 
+
+Propositions are not only limited to sentences used in natural language. 
+
+> **__Natural Language__**: un-paraphrased English (or any language really). 
+
+Propositions can also be mathematical. The following are mathematical statements:
+
+<ol>
+	<li>7>8</li>
+	<li>1+1=2</li>
+	<li>89*5+9(4-3)>34</li>
+</ol>
+
+All of these statements are either true or false. To be precise, propositions (2) and (3) are true and proposition (1) is false. 
+
+Let us see some mathematical expressions and miscellanea that are not propositions:
+
+<ol>
+	<li>6+3</li>
+	<li>x>5</li>
+</ol>
+	
+The expression in (1) is obviously neither true nor false, but the inequality in (2) seems like it could be a proposition. Whenever an equation or an inequality contains a non-assigned variable, the status of being true or false will be dependent upon further conditions. This makes such an equation or inequality a non-proposition.
+Propositions that cannot be broken into parts have a further specification; they are known as atomic propositions. 
+
+Atomic propositions have a symbolic representation or shorthand
+
+<ol>
+	<li>**__p, q, r, s, etc__**: lower case letters represent generic atomic statements.</li>
+	<li>**__P, Q, R, S, etc__**: upper case letters represent specific atomic statements.</li>
+</ol>
+	
+The specific atomic statements can be interpreted as statements in natural language.
+
+In propositional logic, we can see that atomic statements will be connected by various symbols which resemble relationships between said statements. For instance, take the two statements:
+
+<ol>
+	<li>The fox is old.</li>
+	<li>Tom is young.</li>
+</ol>
+
+We can connect the two statements by saying that the fox is old, and that Tom is young. We can also say that the fox is old or that Tom is young.
+
+<ol>
+	<li>**__Logical Connectives__**: Operators used to connect propositions. These can be represented using symbols like →,↔,¬,∧,and ∨.</li>
+  <li>**__Atomic statements__**: Single letter propositions. No connectives.</li>
+  <li>**__Compound statements__**: Propositions with connectives.</li>
+</ol>
+
+It should be noted that logical connectives have precise semantic rules unlike in natural language. Compound proposition’s truth value depend solely on the values assigned to the atomic propositions that make it up. Therefore, the equivocal use of ‘or’ as ‘either or’ in a compound proposition where either atomic proposition must be true exclusively, as opposed to ‘or’ being used to mean that at least one of the atomic propositions is true does not become a problem for logicians. Each connective has a singular interpretation with no need for context.
+
+### Syntax
+
+As we showed above, propositional logic is consistent of symbols which take the place of atomic propositions and logical operators. There are two other building blocks in propositional logic which include its syntax and semantics. 
+
+> **__Syntax__**: refers to how to set up grammatically meaningful propositions in a symbolic logic system. 
