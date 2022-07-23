@@ -5,4 +5,7 @@ introduction-1
 syntax
 predicate-logic
 epistemology
+epistemology-1
+knowledge
 ontology
+ethics
