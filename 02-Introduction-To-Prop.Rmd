@@ -55,12 +55,3 @@ We can connect the two statements by saying that the fox is old, and that Tom is
 </ol>
 
 It should be noted that logical connectives have precise semantic rules unlike in natural language. Compound proposition’s truth value depend solely on the values assigned to the atomic propositions that make it up. Therefore, the equivocal use of ‘or’ as ‘either or’ in a compound proposition where either atomic proposition must be true exclusively, as opposed to ‘or’ being used to mean that at least one of the atomic propositions is true does not become a problem for logicians. Each connective has a singular interpretation with no need for context.
-
-### Syntax
-
-As we showed above, propositional logic is consistent of symbols which take the place of atomic propositions and logical operators. There are two other building blocks in propositional logic which include its syntax and semantics. 
-
-> **__Syntax__**: refers to how to set up grammatically meaningful propositions in a symbolic logic system. 
-
-
-## Predicate Logic

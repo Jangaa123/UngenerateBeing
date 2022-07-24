@@ -1,1 +1,7 @@
-# Epistemology
+### Syntax
+
+As we showed above, propositional logic is consistent of symbols which take the place of atomic propositions and logical operators. There are two other building blocks in propositional logic which include its syntax and semantics. 
+
+> **__Syntax__**: refers to how to set up grammatically meaningful propositions in a symbolic logic system. 
+
+
